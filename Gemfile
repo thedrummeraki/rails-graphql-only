@@ -31,6 +31,8 @@ group :development, :test do
   gem 'factory_bot'
   # GraphiQL
   gem 'graphiql-rails'
+  # Environment files
+  gem 'dotenv-rails'
 end
 
 group :development do

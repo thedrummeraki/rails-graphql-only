@@ -1,0 +1,2 @@
+CREATE USER dbuser;
+ALTER USER dbuser WITH SUPERUSER;
